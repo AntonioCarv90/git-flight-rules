@@ -1918,7 +1918,7 @@ function Squash-Commits {
 ```
 
 # Other Resources
-
+* [Robotics and automation] (https://www.myklassroom.com/Engineering-branches/85/ROBOTICS-AND-AUTOMATION(SS))
 ## Books
 
 * [Learn Enough Git to Be Dangerous](https://www.learnenough.com/git-tutorial) - A book by Michael Hartl covering Git from basics
